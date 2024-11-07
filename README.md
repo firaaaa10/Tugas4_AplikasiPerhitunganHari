@@ -189,7 +189,7 @@ Metode calculateDateDifference() akan di panggil
     
 ```
 # Hasil Gambar Project Ketika di Run
-![]().
+![](https://github.com/firaaaa10/Tugas4_AplikasiPerhitunganHari/blob/main/Cuplikan%20layar%202024-11-07%20153306.png).
 ## Indikator Penilaian:
 
 | No  | Komponen         |  Persentase  |
