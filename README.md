@@ -188,3 +188,20 @@ Metode calculateDateDifference() akan di panggil
     }
     
 ```
+# Hasil Gambar Project Ketika di Run
+![]().
+## Indikator Penilaian:
+
+| No  | Komponen         |  Persentase  |
+| :-: | --------------   |   :-----:    |
+|  1  | Komponen GUI     |    10    |
+|  2  | Logika Program   |    20    |
+|  3  | Kesesuaian UI    |    15    |
+|  4  | Constructor      |    15    |
+|  5  | Memenuhi Variasi |    40    |
+|     | TOTAL        | 100 |
+
+## Pembuat
+
+Nama  : Siti Safira
+NPM   : 2210010336
